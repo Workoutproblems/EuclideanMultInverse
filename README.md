@@ -1,0 +1,1 @@
+Program that implement Euclids algorithms for multiplicative inverse w/ out needed to use the extened version.
